@@ -1,6 +1,15 @@
 # Bomber
 It's Robi Airtel Circle Pin.... Update Tools... Request deneid. you have send too much request.
 
+<p align="center">
+<img src="https://img.shields.io/badge/SMS-BOMBER-green">
+<p/>
+<p align="center">
+<img src="https://img.shields.io/badge/Don't%20Use%20It-any%20Bad%20way-cyan">
+<img src="https://img.shields.io/badge/version-2.0.2-red">
+<img src="https://img.shields.io/badge/Created%20by-TaNviiR--RiiYaD-yellow">
+<img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-lightgrey">
+<p/>
 For First Time Activation the  Tools
 Type Below command On your Terminal
 
