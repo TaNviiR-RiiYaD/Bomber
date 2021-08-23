@@ -2,11 +2,15 @@
 It's Robi Airtel Circle Pin.... Update Tools... Request deneid. you have send too much request.
 
 <p align="center">
-<img src="https://img.shields.io/badge/SMS-BOMBER-green">
-<p/>
+  <img src="https://img.shields.io/badge/SMS-Bomber-green?style=for-the-badge">
+ <p align="center">
+ <img src="https://img.shields.io/badge/Version-2.0.2-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/TaNviiR-RiiYaD/Bomber?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/TaNviiR-RiiYaD/Bomber?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/TaNviiR-RiiYaD/Bomber?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/TaNviiR-RiiYaD/Bomber?color=teal&style=for-the-badge">
 <p align="center">
 <img src="https://img.shields.io/badge/Don't%20Use%20It-any%20Bad%20way-cyan">
-<img src="https://img.shields.io/badge/version-2.0.2-red">
 <a href="https://github.com/TaNviiR-RiiYaD/something/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TaNviiR-RiiYaD/something?label=Watchers&color=blue&style=flat-square"></a>
 <img src="https://img.shields.io/badge/Created%20by-TaNviiR--RiiYaD-yellow">
 <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-lightgrey">
