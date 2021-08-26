@@ -2,8 +2,10 @@
 It's Robi Airtel Circle Pin.... Update Tools... Request deneid. you have send too much request.
 
 <p align="center">
+  
   <img src="https://img.shields.io/badge/SMS-Bomber-green?style=for-the-badge">
  <p align="center">
+  <img src="https://img.shields.io/badge/New%20Version-Added%20KaLi%20Linux-cyan?style=for-the-badge">
   <img src="https://img.shields.io/badge/New%20Version-Added%20E--mail%20Bomber-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Version-2.0.3-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/TaNviiR-RiiYaD/copy?style=for-the-badge">
